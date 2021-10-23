@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i do programing for fun
 ## Java for the win
 
-========
+=================================================================================================
 # stats
 
 <a href="https://github.com/HewelFo/HewelFo">
