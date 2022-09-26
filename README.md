@@ -4,8 +4,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in my house
-- 🌱 I’m currently learning python + linux
-- ⚡ Fun fact: i do programing for fun
+- 🌱 I’m currently learning rust
+- ⚡ Fun fact: i love programing
 ## Java for the win
 
 _______________________________________________________________________
