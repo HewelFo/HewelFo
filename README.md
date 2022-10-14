@@ -2,6 +2,12 @@
 
 <img align ="right" src="https://komarev.com/ghpvc/?username=HewelFo&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
 
+## About me
+- My name is Hewel
+- I'm learing rust
+- I'm interested in IA and crypto
+- My fav lenguaje is Python
+
 ## Programing lenguaje
 <h3 align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
