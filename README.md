@@ -6,13 +6,27 @@
 <h3 align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </h3>
+<h3 align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+</h3>
+<h3 align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</h3>
+<h3 align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Js" alt="Js" width="40" height="40"/>&nbsp;
+</h3>
+
 ## Operating System
+
 ## Code editor
+
 ## Dev tools 
+
 ## Pytohn tools
+
 ## Dart tools
-_______________________________________________________________________
-# stats
+
+## stats
 <h3 align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
