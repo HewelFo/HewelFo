@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align ="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
+
 
 Here are some ideas to get you started:
 
