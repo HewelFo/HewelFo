@@ -2,7 +2,9 @@
 
 <img align ="right" src="https://komarev.com/ghpvc/?username=HewelFo&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
 
-
+<a href="https://open.spotify.com/Alexs" rel="nofollow">
+  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" style="max-width: 100%;">
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in my house
