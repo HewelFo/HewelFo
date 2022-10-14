@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 
 _______________________________________________________________________
 # stats
-
-![Turupawn's github stats](https://github-readme-stats.vercel.app/api?username=HewelFo&show_icons=true)
 <h3 align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HewelFo&show_icons=true" />
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HewelFo&layout=compact&theme=radical" />
+    <img align="start" src="https://github-readme-stats.vercel.app/api?username=HewelFo&show_icons=true" />
+    <img align="end" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HewelFo&layout=compact&theme=radical" />
   </a>
 </h3>
 ```
