@@ -2,15 +2,15 @@
 
 <img align ="right" src="https://komarev.com/ghpvc/?username=HewelFo&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working in my house
-- 🌱 I’m currently learning rust
-- ⚡ Fun fact: i love programing
-## Java for the win
-
+## Programing lenguaje
+<h3 align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</h3>
+## Operating System
+## Code editor
+## Dev tools 
+## Pytohn tools
+## Dart tools
 _______________________________________________________________________
 # stats
 <h3 align="center">
